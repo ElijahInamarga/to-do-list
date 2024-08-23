@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Tasks font';
+    src: url(../public/fonts/michelle\ digital\ handwritten.ttf);
+}
+
+input {
+    width: 22em;
+    height: 2em;
+}
+
+#input-button {
+    height: 2.3em;
+}
+
+#task-container {
+    overflow-y: scroll;
+    width: 25em;
+    height: 25em;
+    margin: 2em auto;
+}
+
+#task-container li {
+    margin: 0.5em auto;
+    text-align: end;
+    width: 17em;
+    list-style: none;
+    font-family: 'Tasks font';
+    font-size: 1.3em;
+}
+
+#task-container li #task {
+    display: flex;
+    justify-content: space-between;
+}
+
+#task-container li #task button {
+    margin-left: 0.6em;
+    background-color: #ff6565 ;
+    color: #fff5f2;
+    padding: 0.15em 0.3em 0.15em 0.3em;
+}
+
+#task-container li #task button:hover {    
+    background-color: #ff2929;
+}
+
+#task-container li #task button:active {    
+    color: black;
+}
+
