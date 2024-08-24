@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/to-do-list/static/css/main.04cfc186.css",
+    "main.js": "/to-do-list/static/js/main.b2d8e0de.js",
+    "static/media/PermanentMarker.ttf": "/to-do-list/static/media/PermanentMarker.8e0809258860386d2a28.ttf",
+    "static/media/michelle digital handwritten.ttf": "/to-do-list/static/media/michelle digital handwritten.1bd50890284e30600ec6.ttf",
+    "index.html": "/to-do-list/index.html",
+    "main.04cfc186.css.map": "/to-do-list/static/css/main.04cfc186.css.map",
+    "main.b2d8e0de.js.map": "/to-do-list/static/js/main.b2d8e0de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04cfc186.css",
+    "static/js/main.b2d8e0de.js"
+  ]
+}
